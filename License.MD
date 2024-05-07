@@ -1,4 +1,4 @@
-The C# script was written by Jens Hansen working for the Ravi Iyengar lab. Abhinav Jain who was also working for the Ravi Iyengar lab and Jens Hansen curated reactions and reaction parameters, ran MATLAB simulations and discussed how to organize the MATLAB code written by the C# script.<br>
+The unpublished C# script that wrote MATLAB code and yED-network was written by Jens Hansen working for the Ravi Iyengar lab. Abhinav Jain who was also working for the Ravi Iyengar lab and Jens Hansen curated reactions and reaction parameters, ran MATLAB simulations and discussed how to organize the MATLAB code written by the C# script.<br>
 <br>
 We thank Dr. Shankar Subramaniam (UCSD) for providing detailed tables of the data from one of his studies. We thank Dr. William Smith (University of Michigan), Dr. Robert Murphy (University of Colorado) and Dr. Kara Dolinsky (Princeton University) for guidance during the curation of the eicosanoid network.<br>
 <br>
