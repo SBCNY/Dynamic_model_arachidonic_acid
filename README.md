@@ -3,4 +3,4 @@ The uploaded MATLAB code simulates arachidonic acid metabolism in bone marrow de
 <br>
 The graphml-file can be opened with yED editor (yworks.com/products/yed) and shows the modeled reactions and their subcellular localizations. The reaction numbers in the yED network correspond to the reaction numbers in the MATLAB code. Selection of Windows/context views/neighborhood allows visualization of single reactions.<br>
 <br>
-MATLAB code and graphml file were automatically written by an unpublished C# script that integrates canonical dynamical models with transcriptomic and/or proteomic steady state or timeline data to generate cell type selective models.<br>
+MATLAB code and graphml file were automatically written by an unpublished C# script that integrates canonical dynamical models with transcriptomic and/or proteomic steady state and/or timeline data to generate cell type selective models.<br>
