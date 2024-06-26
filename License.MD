@@ -10,7 +10,7 @@ Hansen J, Jain AR, Nenov P, Robinson PN and Iyengar R (2024), From transcriptomi
 <br>
 Please cite Kihara et al. (Biophys J. 2014 Feb 18;106(4):966-75. doi: 10.1016/j.bpj.2014.01.015., PMID: 24559999) and Qui et al (Nat Commun. 2022 Nov 30;13(1):7389. doi: 10.1038/s41467-022-35095-7. PMID: 36450731) for the used transcriptomic and proteomic datasets as well as pentaconhq.org for the bulk of curated reaction parameters. <br>
 <br>
-------------------------------------------------------------------------
+
 <br>
 In the following is a copy-paste of the Apache 2.0 license obtained from 'https://www.apache.org/licenses/LICENSE-2.0.txt'<br>
 <br>
