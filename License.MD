@@ -5,7 +5,8 @@ We thank Dr. Shankar Subramaniam (UCSD) for providing detailed tables of the dat
 <b>Copyright:</b><br>
 The MATLAB code and all other elements of this depository are made available under the Apache 2.0 license.<br>
 <br>
-Please cite our manuscript for the generated code: 'Hansen J, Jain AR, Nenov P, Robinson PN and Iyengar R (2024), From transcriptomics to digital twins of organ function. Front. Cell Dev. Biol. 12:1240384. doi: 10.3389/fcell.2024.1240384.<br>
+Please cite our manuscript for the generated code:<br>
+Hansen J, Jain AR, Nenov P, Robinson PN and Iyengar R (2024), From transcriptomics to digital twins of organ function. Front. Cell Dev. Biol. 12:1240384. doi: 10.3389/fcell.2024.1240384.<br>
 <br>
 Please cite Kihara et al. (Biophys J. 2014 Feb 18;106(4):966-75. doi: 10.1016/j.bpj.2014.01.015., PMID: 24559999) and Qui et al (Nat Commun. 2022 Nov 30;13(1):7389. doi: 10.1038/s41467-022-35095-7. PMID: 36450731) for the used transcriptomic and proteomic datasets as well as pentaconhq.org for the bulk of curated reaction parameters. 
 
